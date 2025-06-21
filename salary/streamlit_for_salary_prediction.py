@@ -1,3 +1,5 @@
+#Streamlit project to predict the salary of the employee according to the given specifications.
+
 import streamlit as st
 import joblib
 import numpy as np

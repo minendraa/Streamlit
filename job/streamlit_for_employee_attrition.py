@@ -1,3 +1,5 @@
+#Streamlit project to predict the attrition of the employee working on the company according to the employee's given details and specifications.
+
 import streamlit as st
 import pandas as pd
 import joblib
